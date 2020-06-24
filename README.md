@@ -1,5 +1,7 @@
 # Docker bionic-qt
 
+![GitHub](https://img.shields.io/github/license/dombalaz/bionic-qt-docker) ![Docker Pulls](https://img.shields.io/docker/pulls/mink0/bionic-qt) ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/mink0/bionic-qt/latest)
+
 This image provides Qt libraries running on Ubuntu Bionic inside docker.
 
 ## Getting Started
